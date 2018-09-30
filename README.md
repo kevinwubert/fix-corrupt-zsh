@@ -1,3 +1,3 @@
-#fix-corrupt-zsh
+# fix-corrupt-zsh
 
 Fixes corrupt zsh history
